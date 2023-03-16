@@ -1,5 +1,4 @@
-# BookNook
-### _The New York Times Book Manager_
+# BookNook: The New York Times Book Manager
 
 ## Description
 BookNook is a console-based Java application for managing book entries including books as seen on The New York Times Best Sellers lists.
