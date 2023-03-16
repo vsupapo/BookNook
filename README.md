@@ -26,11 +26,13 @@ BookNook lets you:
 * Browse books on The New York Times Best Sellers lists
 
 Book entries include details such as:
-| Field         | Description                                                            |
-| ------------- | ---------------------------------------------------------------------- |
-| age group     | The recommended reader age group for the book                          |
-| author        | The author of the book                                                 |
-| description   | A brief description of the book                                        |
+| Field         | Description                                                                       |
+| ------------- | --------------------------------------------------------------------------------- |
+| Age group     | The recommended reader age group for the book                                     |
+| Author        | The author of the book                                                            |
+| Description   | A brief description of the book                                                   |
+| Price         | The price of the book in USD                                                      |
+
 
 ## Credits
 A special thanks to Team Strozzi 
