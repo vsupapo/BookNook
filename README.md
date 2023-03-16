@@ -1,10 +1,10 @@
-## BookNook
+# BookNook
 
-A Java console-based management application for book entries from the New York Times dataset.
-Json data is stored in a MongoDB NoSQL database, hosted in an AWS EC2 instance. 
+## Description
+BookNook is a console-based Java application for managing book entries including those as seen on The New York Times Best Sellers.
+JSON book data is stored in a MongoDB NoSQL database, hosted on an AWS EC2 instance. 
+This application uses the Java Mongo driver to connect to the EC2 instance and perform database management operations.
 
-This application connects to the EC2 instance and provides the users with database management operations.
 
-
-Requirements:
+## Requirements:
 mongo-java-driver-3.8.1.jar
