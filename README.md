@@ -1,4 +1,4 @@
-New York Times Book Manager
+## BookNook
 
 A Java console-based management application for book entries from the New York Times dataset.
 Json data is stored in a MongoDB NoSQL database, hosted in an AWS EC2 instance. 
