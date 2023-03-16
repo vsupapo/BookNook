@@ -6,10 +6,7 @@ Book data is stored in the form of JSON documents in a MongoDB NoSQL database, h
 This application uses the Mongo Java driver to connect to the EC2 instance and allow the user to perform database management CRUD operations.
 
 ## Requirements
-In order to run the BookNook application, you will need the following:
-  
-1. `mongo-java-driver-3.8.1.jar`
-2. Java IDE such as Eclipse or IntelliJ
+In order to run the BookNook application, you will need the `mongo-java-driver-3.8.1.jar` file and a Java IDE such as Eclipse or IntelliJ.
 
 ## Installation
 1. Download the BookNook application 
