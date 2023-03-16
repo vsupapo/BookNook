@@ -34,6 +34,8 @@ Book entries include details such as:
 | Price         | The price of the book in USD                                                      |
 | ISBN          | A unique ISBN identifier for the book                                             |
 | Publisher     | The publisher of the book                                                         |
+| Rank          | The sales rank of the book according to The New York Times Best Sellers           |
+| Title         | The title of the book                                                             |
 
 ## Credits
 A special thanks to Team Strozzi 
