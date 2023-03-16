@@ -10,7 +10,7 @@ In order to run the BookNook application, you will need the `mongo-java-driver-3
 
 ## Installation
 1. Import the project to your IDE
-2. Add the Mongo Java driver to your target folder
+2. Add the Mongo Java driver to the target folder
 
 ## BookNook Features
 BookNook lets you:
