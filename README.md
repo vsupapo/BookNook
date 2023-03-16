@@ -36,6 +36,8 @@ Book entries include details such as:
 | Publisher     | The publisher of the book                                                         |
 | Rank          | The sales rank of the book according to The New York Times Best Sellers           |
 | Title         | The title of the book                                                             |
+| Weeks on list | The number of weeks on The New York Times Best Seller list                        |
+| Purchase links| The names and URL links of retail websites to purchase the book                   |
 
 ## Credits
 A special thanks to Team Strozzi 
