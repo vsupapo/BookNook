@@ -12,7 +12,9 @@ In order to run the BookNook application, you will need the following:
 2. Java IDE such as Eclipse or IntelliJ
 
 ## Installation
-Download the BookNook application and open the project in your IDE. Add the Mongo Java driver to your target folder before running the application.
+1. Download the BookNook application 
+2. Open the project in your IDE
+3. Add the Mongo Java driver to your target folder
 
 ## BookNook Features
 BookNook lets you:
@@ -22,3 +24,6 @@ BookNook lets you:
 * Update a book entry
 * Search for books by category, keyword, or price
 * Browse books on The New York Times Best Sellers
+
+## Credits
+A special thanks to Team Strozzi 
