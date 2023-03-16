@@ -9,9 +9,8 @@ This application uses the Mongo Java driver to connect to the EC2 instance and a
 In order to run the BookNook application, you will need the `mongo-java-driver-3.8.1.jar` file and a Java IDE such as Eclipse or IntelliJ.
 
 ## Installation
-1. Download the BookNook application 
-2. Open the project in your IDE
-3. Add the Mongo Java driver to your target folder
+1. Import the project to your IDE
+2. Add the Mongo Java driver to your target folder
 
 ## BookNook Features
 BookNook lets you:
