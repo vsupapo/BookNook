@@ -23,7 +23,14 @@ BookNook lets you:
 * Delete a book entry
 * Update a book entry
 * Search for books by category, keyword, or price
-* Browse books on The New York Times Best Sellers
+* Browse books on The New York Times Best Sellers lists
+
+Book entries include details such as:
+| Field         | Description                                                            |
+| ------------- |:----------------------------------------------------------------------:|
+| age group     | The recommended reader age group for the book                          |
+| author        | The author of the book                                                 |
+| description   | A brief description of the book                                        |
 
 ## Credits
 A special thanks to Team Strozzi 
