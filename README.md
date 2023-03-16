@@ -32,7 +32,8 @@ Book entries include details such as:
 | Author        | The author of the book                                                            |
 | Description   | A brief description of the book                                                   |
 | Price         | The price of the book in USD                                                      |
-
+| ISBN          | A unique ISBN identifier for the book                                             |
+| Publisher     | The publisher of the book                                                         |
 
 ## Credits
 A special thanks to Team Strozzi 
