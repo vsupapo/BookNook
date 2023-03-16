@@ -22,7 +22,9 @@ BookNook lets you:
 * Create a book entry
 * Delete a book entry
 * Update a book entry
-* Search for books by category, keyword, or price
+* Search for books by category
+* Search for books by keyword
+* Search for books by ascending or descending price
 * Browse books on The New York Times Best Sellers lists
 
 Book entries include details such as:
