@@ -14,7 +14,7 @@ In order to run the BookNook application, you will need the following:
 ## Installation
 Download the BookNook application and open the project in your IDE. Add the Mongo Java driver to your target folder before running the application.
 
-## How to Use BookNook
+## BookNook Features
 BookNook lets you:
 
 * Create a book entry
