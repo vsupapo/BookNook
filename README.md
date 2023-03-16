@@ -27,7 +27,7 @@ BookNook lets you:
 
 Book entries include details such as:
 | Field         | Description                                                            |
-| ------------- |:----------------------------------------------------------------------:|
+| ------------- | ---------------------------------------------------------------------- |
 | age group     | The recommended reader age group for the book                          |
 | author        | The author of the book                                                 |
 | description   | A brief description of the book                                        |
