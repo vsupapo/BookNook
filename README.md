@@ -1,12 +1,12 @@
 # BookNook
 
 ## Description
-BookNook is a console-based Java application for managing book entries including books as seen on The New York Times Best Sellers lists.
+BookNook is a Java console application for managing book entries, creating personal book lists, and browsing books from The New York Times Best Sellers.
 Book data is stored in the form of JSON documents in a MongoDB NoSQL database, hosted on an AWS EC2 instance. 
-This application uses the Mongo Java driver to connect to the EC2 instance and allow the user to perform database management CRUD operations.
+This application uses the Mongo Java driver to connect to the EC2 instance and allows the user to perform database management CRUD operations.
 
 ## Requirements
-In order to run the BookNook application, you will need the `mongo-java-driver-3.8.1.jar` file and a Java IDE such as Eclipse or IntelliJ.
+To run the BookNook application, you will need the `mongo-java-driver-3.8.1.jar` file and a Java IDE such as Eclipse or IntelliJ.
 
 ## Installation
 1. Import the project to your IDE
@@ -15,13 +15,15 @@ In order to run the BookNook application, you will need the `mongo-java-driver-3
 ## BookNook Features
 BookNook lets you:
 
-* Create a book entry
-* Delete a book entry
-* Update a book entry
-* Search for books by category
-* Search for books by keyword
-* Search for books by ascending or descending price
-* Browse books on The New York Times Best Sellers lists
+- Create a book entry
+- Delete a book entry
+- Update a book entry
+- Search for books by category
+- Search for books by keyword
+- Search for books by ascending or descending price
+- Browse books on The New York Times Best Sellers lists
+- Save books to personal book lists
+
 
 Book entries include details such as:
 | Field         | Description                                                                       |
