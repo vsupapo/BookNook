@@ -14,7 +14,6 @@ To run the BookNook application, you will need the `mongo-java-driver-3.8.1.jar`
 
 ## BookNook Features
 BookNook lets you:
-
 - Create a book entry
 - Delete a book entry
 - Update a book entry
@@ -40,4 +39,4 @@ Book entries include details such as:
 | Purchase links| The names and URL links of retail websites to purchase the book                   |
 
 ## Credits
-A special thanks to Team Strozzi 
+*A special thanks to Team Strozzi*
