@@ -1,4 +1,4 @@
-# BookNook :book:
+# :book: BookNook :book:
 
 ## Description
 BookNook is a Java console application for managing book entries, creating personal book lists, and browsing books from The New York Times Best Sellers.
